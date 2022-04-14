@@ -1,0 +1,119 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "testing github",
+    "children" : [ {
+      "name" : "allure",
+      "uid" : "24bfd2f23a7c190d",
+      "parentUid" : "73426067d0056796e0151f93645141ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649962395916,
+        "stop" : 1649962404855,
+        "duration" : 8939
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.88" ]
+    }, {
+      "name" : "allure",
+      "uid" : "63cc148089b6abd9",
+      "parentUid" : "73426067d0056796e0151f93645141ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649965116777,
+        "stop" : 1649965122798,
+        "duration" : 6021
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "73426067d0056796e0151f93645141ed"
+  }, {
+    "name" : "'api request from wdio",
+    "children" : [ {
+      "name" : "check Email",
+      "uid" : "bbbadb29e9950f99",
+      "parentUid" : "b1f1cdff42735828496ed16d05ca9ae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649962395917,
+        "stop" : 1649962425169,
+        "duration" : 29252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.88" ]
+    }, {
+      "name" : "check Email",
+      "uid" : "a2333d88a7bfa20d",
+      "parentUid" : "b1f1cdff42735828496ed16d05ca9ae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649965116819,
+        "stop" : 1649965128046,
+        "duration" : 11227
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "b1f1cdff42735828496ed16d05ca9ae3"
+  }, {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "95505101164cccee",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649962428904,
+        "stop" : 1649962434760,
+        "duration" : 5856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.88" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "c2f0ba91091ceee",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649965123992,
+        "stop" : 1649965125825,
+        "duration" : 1833
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "ff9b43c34a817b44fa9b6edf61b00141"
+  } ],
+  "name" : "suites"
+}

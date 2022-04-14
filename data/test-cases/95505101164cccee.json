@@ -1,0 +1,97 @@
+{
+  "uid" : "95505101164cccee",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "967a096990e94f121e710f217337d1de",
+  "time" : {
+    "start" : 1649962428904,
+    "stop" : 1649962434760,
+    "duration" : 5856
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.88"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "73a663040efdc904",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649961702296,
+        "stop" : 1649961708837,
+        "duration" : 6541
+      }
+    }, {
+      "uid" : "112124b8908f8c7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649930746383,
+        "stop" : 1649930751667,
+        "duration" : 5284
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "dff6567ebb0e341d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649930746383,
+          "stop" : 1649930751667,
+          "duration" : 5284
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "95505101164cccee.json",
+  "parameterValues" : [ "chrome-100.0.4896.88" ]
+}

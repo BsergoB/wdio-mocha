@@ -1,0 +1,61 @@
+[ {
+  "uid" : "a2333d88a7bfa20d",
+  "name" : "check Email",
+  "time" : {
+    "start" : 1649965116819,
+    "stop" : 1649965128046,
+    "duration" : 11227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95505101164cccee",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1649962428904,
+    "stop" : 1649962434760,
+    "duration" : 5856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbbadb29e9950f99",
+  "name" : "check Email",
+  "time" : {
+    "start" : 1649962395917,
+    "stop" : 1649962425169,
+    "duration" : 29252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63cc148089b6abd9",
+  "name" : "allure",
+  "time" : {
+    "start" : 1649965116777,
+    "stop" : 1649965122798,
+    "duration" : 6021
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24bfd2f23a7c190d",
+  "name" : "allure",
+  "time" : {
+    "start" : 1649962395916,
+    "stop" : 1649962404855,
+    "duration" : 8939
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2f0ba91091ceee",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1649965123992,
+    "stop" : 1649965125825,
+    "duration" : 1833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

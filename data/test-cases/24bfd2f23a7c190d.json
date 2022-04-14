@@ -1,0 +1,62 @@
+{
+  "uid" : "24bfd2f23a7c190d",
+  "name" : "allure",
+  "fullName" : "testing github.allure",
+  "historyId" : "1d0a28a646bceabe6bda4afb5022493a",
+  "time" : {
+    "start" : 1649962395916,
+    "stop" : 1649962404855,
+    "duration" : 8939
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "testing github"
+  }, {
+    "name" : "testClass",
+    "value" : "testing github"
+  }, {
+    "name" : "testMethod",
+    "value" : "allure"
+  }, {
+    "name" : "package",
+    "value" : "testing github"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.88"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24bfd2f23a7c190d.json",
+  "parameterValues" : [ "chrome-100.0.4896.88" ]
+}
