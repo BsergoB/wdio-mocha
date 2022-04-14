@@ -1,0 +1,60 @@
+{
+  "uid" : "e24435c5e1de543",
+  "name" : "check Email",
+  "fullName" : "'api request from wdio.check Email",
+  "historyId" : "d1aeeee2cb399a4b0f0d4efc12106994",
+  "time" : {
+    "start" : 1649961700864,
+    "stop" : 1649961711890,
+    "duration" : 11026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "'api request from wdio"
+  }, {
+    "name" : "testClass",
+    "value" : "'api request from wdio"
+  }, {
+    "name" : "testMethod",
+    "value" : "check Email"
+  }, {
+    "name" : "package",
+    "value" : "'api request from wdio"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.88"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e24435c5e1de543.json",
+  "parameterValues" : [ "chrome-100.0.4896.88" ]
+}
