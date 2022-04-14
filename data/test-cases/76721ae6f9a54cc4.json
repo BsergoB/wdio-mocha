@@ -1,12 +1,12 @@
 {
-  "uid" : "24bfd2f23a7c190d",
-  "name" : "allure",
-  "fullName" : "testing github.allure",
-  "historyId" : "1d0a28a646bceabe6bda4afb5022493a",
+  "uid" : "76721ae6f9a54cc4",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "967a096990e94f121e710f217337d1de",
   "time" : {
-    "start" : 1649962395916,
-    "stop" : 1649962404855,
-    "duration" : 8939
+    "start" : 1649930746383,
+    "stop" : 1649930751667,
+    "duration" : 5284
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-2"
   }, {
     "name" : "suite",
-    "value" : "testing github"
+    "value" : "My Login application"
   }, {
     "name" : "testClass",
-    "value" : "testing github"
+    "value" : "My Login application"
   }, {
     "name" : "testMethod",
-    "value" : "allure"
+    "value" : "should login with valid credentials"
   }, {
     "name" : "package",
-    "value" : "testing github"
+    "value" : "My Login application"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -49,14 +49,12 @@
     "value" : "chrome-100.0.4896.88"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "24bfd2f23a7c190d.json",
+  "source" : "76721ae6f9a54cc4.json",
   "parameterValues" : [ "chrome-100.0.4896.88" ]
 }

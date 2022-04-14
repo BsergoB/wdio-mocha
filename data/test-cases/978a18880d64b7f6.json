@@ -1,12 +1,12 @@
 {
-  "uid" : "3438a90fd9e92ed2",
-  "name" : "check Email",
-  "fullName" : "'api request from wdio.check Email",
-  "historyId" : "d1aeeee2cb399a4b0f0d4efc12106994",
+  "uid" : "978a18880d64b7f6",
+  "name" : "allure",
+  "fullName" : "testing github.allure",
+  "historyId" : "1d0a28a646bceabe6bda4afb5022493a",
   "time" : {
-    "start" : 1649930746260,
-    "stop" : 1649930753353,
-    "duration" : 7093
+    "start" : 1649962395916,
+    "stop" : 1649962404855,
+    "duration" : 8939
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-1"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "'api request from wdio"
+    "value" : "testing github"
   }, {
     "name" : "testClass",
-    "value" : "'api request from wdio"
+    "value" : "testing github"
   }, {
     "name" : "testMethod",
-    "value" : "check Email"
+    "value" : "allure"
   }, {
     "name" : "package",
-    "value" : "'api request from wdio"
+    "value" : "testing github"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -49,12 +49,14 @@
     "value" : "chrome-100.0.4896.88"
   } ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "3438a90fd9e92ed2.json",
+  "source" : "978a18880d64b7f6.json",
   "parameterValues" : [ "chrome-100.0.4896.88" ]
 }

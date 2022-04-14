@@ -1,12 +1,12 @@
 {
-  "uid" : "93d81bc38dad4bca",
+  "uid" : "e8f496e130a62f24",
   "name" : "check Email",
   "fullName" : "'api request from wdio.check Email",
   "historyId" : "d1aeeee2cb399a4b0f0d4efc12106994",
   "time" : {
-    "start" : 1649961700864,
-    "stop" : 1649961711890,
-    "duration" : 11026
+    "start" : 1649930746260,
+    "stop" : 1649930753353,
+    "duration" : 7093
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -55,6 +55,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "93d81bc38dad4bca.json",
+  "source" : "e8f496e130a62f24.json",
   "parameterValues" : [ "chrome-100.0.4896.88" ]
 }

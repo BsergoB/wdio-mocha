@@ -1,12 +1,12 @@
 {
-  "uid" : "95505101164cccee",
-  "name" : "should login with valid credentials",
-  "fullName" : "My Login application.should login with valid credentials",
-  "historyId" : "967a096990e94f121e710f217337d1de",
+  "uid" : "25e02f3b7cb82407",
+  "name" : "check Email",
+  "fullName" : "'api request from wdio.check Email",
+  "historyId" : "d1aeeee2cb399a4b0f0d4efc12106994",
   "time" : {
-    "start" : 1649962428904,
-    "stop" : 1649962434760,
-    "duration" : 5856
+    "start" : 1649962395917,
+    "stop" : 1649962425169,
+    "duration" : 29252
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-2"
+    "value" : "0-1"
   }, {
     "name" : "suite",
-    "value" : "My Login application"
+    "value" : "'api request from wdio"
   }, {
     "name" : "testClass",
-    "value" : "My Login application"
+    "value" : "'api request from wdio"
   }, {
     "name" : "testMethod",
-    "value" : "should login with valid credentials"
+    "value" : "check Email"
   }, {
     "name" : "package",
-    "value" : "My Login application"
+    "value" : "'api request from wdio"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -54,20 +54,20 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "73a663040efdc904",
+      "uid" : "29053aad8b29ee3c",
       "status" : "passed",
       "time" : {
-        "start" : 1649961702296,
-        "stop" : 1649961708837,
-        "duration" : 6541
+        "start" : 1649961700864,
+        "stop" : 1649961711890,
+        "duration" : 11026
       }
     }, {
-      "uid" : "112124b8908f8c7a",
+      "uid" : "e8f496e130a62f24",
       "status" : "passed",
       "time" : {
-        "start" : 1649930746383,
-        "stop" : 1649930751667,
-        "duration" : 5284
+        "start" : 1649930746260,
+        "stop" : 1649930753353,
+        "duration" : 7093
       }
     } ],
     "categories" : [ ],
@@ -81,17 +81,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "dff6567ebb0e341d",
+        "uid" : "a001a996ad149a7c",
         "status" : "passed",
         "time" : {
-          "start" : 1649930746383,
-          "stop" : 1649930751667,
-          "duration" : 5284
+          "start" : 1649930746260,
+          "stop" : 1649930753353,
+          "duration" : 7093
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "95505101164cccee.json",
+  "source" : "25e02f3b7cb82407.json",
   "parameterValues" : [ "chrome-100.0.4896.88" ]
 }

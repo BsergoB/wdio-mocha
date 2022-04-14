@@ -4,7 +4,7 @@
     "name" : "testing github",
     "children" : [ {
       "name" : "allure",
-      "uid" : "24bfd2f23a7c190d",
+      "uid" : "978a18880d64b7f6",
       "parentUid" : "73426067d0056796e0151f93645141ed",
       "status" : "passed",
       "time" : {
@@ -21,13 +21,13 @@
       "parameters" : [ "chrome-100.0.4896.88" ]
     }, {
       "name" : "allure",
-      "uid" : "63cc148089b6abd9",
+      "uid" : "6fc5e543ea6577a1",
       "parentUid" : "73426067d0056796e0151f93645141ed",
       "status" : "passed",
       "time" : {
-        "start" : 1649965116777,
-        "stop" : 1649965122798,
-        "duration" : 6021
+        "start" : 1649965260796,
+        "stop" : 1649965267326,
+        "duration" : 6530
       },
       "flaky" : false,
       "newFailed" : false,
@@ -42,7 +42,7 @@
     "name" : "'api request from wdio",
     "children" : [ {
       "name" : "check Email",
-      "uid" : "bbbadb29e9950f99",
+      "uid" : "25e02f3b7cb82407",
       "parentUid" : "b1f1cdff42735828496ed16d05ca9ae3",
       "status" : "passed",
       "time" : {
@@ -59,13 +59,13 @@
       "parameters" : [ "chrome-100.0.4896.88" ]
     }, {
       "name" : "check Email",
-      "uid" : "a2333d88a7bfa20d",
+      "uid" : "71be4ed834f076ae",
       "parentUid" : "b1f1cdff42735828496ed16d05ca9ae3",
       "status" : "passed",
       "time" : {
-        "start" : 1649965116819,
-        "stop" : 1649965128046,
-        "duration" : 11227
+        "start" : 1649965260798,
+        "stop" : 1649965272918,
+        "duration" : 12120
       },
       "flaky" : false,
       "newFailed" : false,
@@ -80,7 +80,7 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "95505101164cccee",
+      "uid" : "332be89c5e93542f",
       "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
       "status" : "passed",
       "time" : {
@@ -97,13 +97,13 @@
       "parameters" : [ "chrome-100.0.4896.88" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "c2f0ba91091ceee",
+      "uid" : "df2ec43a366408a0",
       "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
       "status" : "passed",
       "time" : {
-        "start" : 1649965123992,
-        "stop" : 1649965125825,
-        "duration" : 1833
+        "start" : 1649965268463,
+        "stop" : 1649965270203,
+        "duration" : 1740
       },
       "flaky" : false,
       "newFailed" : false,
