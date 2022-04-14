@@ -3,36 +3,36 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "check Email",
-    "uid" : "a001a996ad149a7c",
+    "uid" : "4211095f753996b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1649930746260,
-      "stop" : 1649930753353,
-      "duration" : 7093
+      "start" : 1649961700864,
+      "stop" : 1649961711890,
+      "duration" : 11026
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 0,
+    "retriesCount" : 1,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.88" ]
   }, {
     "name" : "should login with valid credentials",
-    "uid" : "dff6567ebb0e341d",
+    "uid" : "17c8c6b88a60650c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1649930746383,
-      "stop" : 1649930751667,
-      "duration" : 5284
+      "start" : 1649961702296,
+      "stop" : 1649961708837,
+      "duration" : 6541
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 0,
+    "retriesCount" : 1,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.88" ]
   } ]

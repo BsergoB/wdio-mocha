@@ -1,4 +1,14 @@
-const axios = require("axios").default;
+describe("testing github", () => {
+  it("allure", async () => {
+    await browser.url("https://github.com/");
+    await browser.pause(1000);
+    const products = await $(
+      "li.mr-0:nth-child(1) > details:nth-child(1) > summary"
+    );
+  })
+})
+
+/*const axios = require("axios").default;
 
 
 axios
@@ -124,4 +134,4 @@ axios
   })
   .then((response) => {
     console.log(response.data);
-  });
+  });*/

@@ -1,20 +1,20 @@
 [ {
-  "uid" : "a001a996ad149a7c",
-  "name" : "check Email",
+  "uid" : "17c8c6b88a60650c",
+  "name" : "should login with valid credentials",
   "time" : {
-    "start" : 1649930746260,
-    "stop" : 1649930753353,
-    "duration" : 7093
+    "start" : 1649961702296,
+    "stop" : 1649961708837,
+    "duration" : 6541
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "dff6567ebb0e341d",
-  "name" : "should login with valid credentials",
+  "uid" : "4211095f753996b",
+  "name" : "check Email",
   "time" : {
-    "start" : 1649930746383,
-    "stop" : 1649930751667,
-    "duration" : 5284
+    "start" : 1649961700864,
+    "stop" : 1649961711890,
+    "duration" : 11026
   },
   "status" : "passed",
   "severity" : "normal"
