@@ -5,7 +5,7 @@
     "name" : "0-1",
     "children" : [ {
       "name" : "check Email",
-      "uid" : "adff23d8e51b190c",
+      "uid" : "a8ec17c8d80edb32",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
@@ -22,7 +22,24 @@
       "parameters" : [ "chrome-100.0.4896.88" ]
     }, {
       "name" : "check Email",
-      "uid" : "4211095f753996b",
+      "uid" : "a7a025bb469a7daa",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649962395917,
+        "stop" : 1649962425169,
+        "duration" : 29252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.88" ]
+    }, {
+      "name" : "check Email",
+      "uid" : "e24435c5e1de543",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
@@ -34,7 +51,7 @@
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 1,
+      "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.88" ]
     } ],
@@ -43,7 +60,41 @@
     "name" : "0-2",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "8dd99e79b50912d3",
+      "uid" : "48a22acad77a21a5",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649961702296,
+        "stop" : 1649961708837,
+        "duration" : 6541
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.88" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "573051447d6814a2",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649962428904,
+        "stop" : 1649962434760,
+        "duration" : 5856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.88" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "b86881f636a446e6",
       "parentUid" : "880a094af3dffab161e2023284569d6f",
       "status" : "passed",
       "time" : {
@@ -58,24 +109,28 @@
       "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.88" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "17c8c6b88a60650c",
-      "parentUid" : "880a094af3dffab161e2023284569d6f",
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "allure",
+      "uid" : "965d095c9805efb4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1649961702296,
-        "stop" : 1649961708837,
-        "duration" : 6541
+        "start" : 1649962395916,
+        "stop" : 1649962404855,
+        "duration" : 8939
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 1,
+      "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.88" ]
     } ],
-    "uid" : "880a094af3dffab161e2023284569d6f"
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
   } ]
 }

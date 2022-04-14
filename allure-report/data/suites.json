@@ -2,22 +2,43 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "'api request from wdio",
+    "name" : "testing github",
     "children" : [ {
-      "name" : "check Email",
-      "uid" : "4211095f753996b",
-      "parentUid" : "b1f1cdff42735828496ed16d05ca9ae3",
+      "name" : "allure",
+      "uid" : "965d095c9805efb4",
+      "parentUid" : "73426067d0056796e0151f93645141ed",
       "status" : "passed",
       "time" : {
-        "start" : 1649961700864,
-        "stop" : 1649961711890,
-        "duration" : 11026
+        "start" : 1649962395916,
+        "stop" : 1649962404855,
+        "duration" : 8939
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 1,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.88" ]
+    } ],
+    "uid" : "73426067d0056796e0151f93645141ed"
+  }, {
+    "name" : "'api request from wdio",
+    "children" : [ {
+      "name" : "check Email",
+      "uid" : "a7a025bb469a7daa",
+      "parentUid" : "b1f1cdff42735828496ed16d05ca9ae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649962395917,
+        "stop" : 1649962425169,
+        "duration" : 29252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.88" ]
     } ],
@@ -26,19 +47,19 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "17c8c6b88a60650c",
+      "uid" : "573051447d6814a2",
       "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
       "status" : "passed",
       "time" : {
-        "start" : 1649961702296,
-        "stop" : 1649961708837,
-        "duration" : 6541
+        "start" : 1649962428904,
+        "stop" : 1649962434760,
+        "duration" : 5856
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 1,
+      "retriesCount" : 2,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.88" ]
     } ],

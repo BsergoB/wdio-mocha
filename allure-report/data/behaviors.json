@@ -2,37 +2,54 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "check Email",
-    "uid" : "4211095f753996b",
+    "name" : "allure",
+    "uid" : "965d095c9805efb4",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1649961700864,
-      "stop" : 1649961711890,
-      "duration" : 11026
+      "start" : 1649962395916,
+      "stop" : 1649962404855,
+      "duration" : 8939
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-100.0.4896.88" ]
+  }, {
+    "name" : "check Email",
+    "uid" : "a7a025bb469a7daa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649962395917,
+      "stop" : 1649962425169,
+      "duration" : 29252
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 2,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.88" ]
   }, {
     "name" : "should login with valid credentials",
-    "uid" : "17c8c6b88a60650c",
+    "uid" : "573051447d6814a2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1649961702296,
-      "stop" : 1649961708837,
-      "duration" : 6541
+      "start" : 1649962428904,
+      "stop" : 1649962434760,
+      "duration" : 5856
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 2,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.88" ]
   } ]

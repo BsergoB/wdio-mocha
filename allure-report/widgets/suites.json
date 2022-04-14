@@ -1,6 +1,17 @@
 {
-  "total" : 2,
+  "total" : 3,
   "items" : [ {
+    "uid" : "73426067d0056796e0151f93645141ed",
+    "name" : "testing github",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
     "uid" : "b1f1cdff42735828496ed16d05ca9ae3",
     "name" : "'api request from wdio",
     "statistic" : {
